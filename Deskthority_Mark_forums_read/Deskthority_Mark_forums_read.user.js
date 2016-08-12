@@ -28,9 +28,9 @@ $(document).ready(function() {
     }
 
     if (window.location.href == "https://deskthority.net/?markread") {
-        var mark_unread_href = $("a:contains('Mark forums read')").attr("href");
+        var markread_link_href = $("a:contains('Mark forums read')").attr("href");
 
-        window.location.replace(mark_unread_href);
+        window.location.replace(markread_link_href);
     }
 });
 
