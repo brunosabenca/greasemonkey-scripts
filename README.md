@@ -1,1 +1,1 @@
-# Greasemonkey scripts
+# My user scripts
